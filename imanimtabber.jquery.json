@@ -1,0 +1,34 @@
+{
+"name": "imanimtabber",
+"title": "imAnimTabber",
+"description": "An upside-down tabbing interface.",
+"keywords": [
+"tab",
+"upside-down"
+],
+"version": "1.0.0",
+"author": {
+"name": "Les Green",
+"url": "https://grasshopperpebbles.com/"
+},
+"maintainers": [
+{
+"name": "Les Green",
+"email": "lesgreen@grasshopperpebbles.com",
+"url": "http://grasshopperpebbles.com"
+}
+],
+"licenses": [
+{
+"type": "GNU",
+"url": "https://github.com/lesgreen/imAnimTabber/blob/master/license.txt"
+}
+],
+"bugs": "https://github.com/lesgreen/imAnimTabber/issues",
+"homepage": "https://github.com/lesgreen/imAnimTabber",
+"docs": " http://grasshopperpebbles.com/ajax/jquery-plugin-imanimtabber/",
+"download": "https://github.com/lesgreen/imAnimTabber",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
