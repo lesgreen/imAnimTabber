@@ -4,7 +4,10 @@
 "description": "An upside-down tabbing interface.",
 "keywords": [
 "tab",
-"upside-down"
+"upside-down",
+"effect",
+"slider",
+"animation"
 ],
 "version": "1.0.0",
 "author": {
